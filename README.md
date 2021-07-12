@@ -7,11 +7,11 @@ For this research I used the variables measured by Project Awesome to investigat
 since this selectivity could influence the study results of Project Awesome. For more information on Project Awesome, please visit: https://www.project-awesome.nl/ 
 
 This Git contains the code and the data that was used to create my Bachelor Project. 
-1. In supplementary materials you will find all of the code that was used to create my Bachelor Projects. 
+1. In supplementary materials you will find all of the code that was used to create my Bachelor Projects. The code was written in R 1.4.1103.
   First, you will see an overview of the packages used. Then the code for to create a logistic regression for each Research Question 
   + an step model to be able to identify the relevant predictors for our model. Then you will see a logistic model with the final variables
   and finally you will find the code that was used to handle the assumptions that have to be handled before performing a logistic regression. 
   
 2. In the data Bachelor Project, you will find the data that we used to perform the logistic regression. 
-   This dataset is a subset from the much larger dataset provided by Project Awesome. This dataset only contains the variables that we are interested in investigating.
+   This csv dataset is a subset from the much larger dataset provided by Project Awesome. This dataset only contains the variables that we are interested in investigating.
    
