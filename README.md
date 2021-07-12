@@ -1,4 +1,4 @@
-# bachelorprojecthelene
+# Bachelor Project Helene Hinskens
 
 For my Bachelor Projects I was interested in finding selectivity in a data donation. 
 This specific data donation took place in 2020 after an intenstive study period of 7 months where 388 students from the ages 12-15 were asessed.
